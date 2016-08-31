@@ -13,7 +13,7 @@ import React from 'react';
 class AppComponent extends Component {
 
   componentWillMount() {
-    this.lock = new Auth0Lock('YOUR_AUTH0_CLIENT_ID', 'YOUR_AUTH0_DOMAIN);
+    this.lock = new Auth0Lock('z064dql6SEBjkqJ8hoBeHHS3b5vg71Zi', 'wnqnguo.auth0.com');
   }
 
   render() {
