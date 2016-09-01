@@ -41,5 +41,5 @@ class HeaderComponent extends Component {
       </Navbar>
     );
   }
-  export default HeaderComponent;
 }
+  export default HeaderComponent;

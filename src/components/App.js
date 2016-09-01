@@ -6,7 +6,6 @@ import Header from './Header';
 import Sidebar from './Sidebar';
 import { Grid, Row, Col } from 'react-bootstrap';
 
-import React from 'react';
 
 
 
